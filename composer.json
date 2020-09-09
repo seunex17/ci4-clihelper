@@ -1,0 +1,14 @@
+{
+    "name": "seunex17/ci4-clihelper",
+    "description": "This package allow you to quickly make regulare controller and model files from cli",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zubdev",
+            "email": "seunexseun@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
